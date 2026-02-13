@@ -14,7 +14,7 @@ const noMessages = [
     "Jel si sigurna? 🤔",
     "Ljubav please... 🥺",
     "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
+    "Alo bre... 😢",
     "Please??? 💔",
     "Don't do this to me...",
     "Poslednja sansa! 😭",
