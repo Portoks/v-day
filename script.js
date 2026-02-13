@@ -15,9 +15,9 @@ const noMessages = [
     "Ljubav please... 🥺",
     "If you say no, I will be really sad...",
     "Alo bre... 😢",
-    "Please??? 💔",
-    "Don't do this to me...",
     "Poslednja sansa! 😭",
+    "Don't do this to me...",
+    "Samo probaj! 😏",
     "Ne mozes da me uvatis 😜"
 ]
 
